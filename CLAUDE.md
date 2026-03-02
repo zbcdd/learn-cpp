@@ -17,6 +17,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 笔记文件命名格式：`item_XX_简短英文描述.md`（如 `item_01_understand_template_type_deduction.md`）
 - 笔记使用中文撰写，代码和术语保留英文
 - 笔记结构包含：核心思想、分场景说明（附代码示例）、Things to Remember 总结
+- 对书中涉及的 C++ 概念，可以适当展开解释（如补充相关语法细节、对比易混淆概念、给出更多示例），帮助加深理解，但须标注为补充内容，与原书内容区分
 - 读取 PDF 时使用 `mcp__pdf-reader__read_pdf` 工具，先从目录页确定内容所在的 PDF 页码
 
 ## PDF 页码映射
